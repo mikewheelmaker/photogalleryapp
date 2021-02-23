@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GridViewDelegate.qml</file>
+        <file>HeaderMainWindow.qml</file>
+        <file>FooterMainWindow.qml</file>
+        <file>DeleteDialog.qml</file>
+        <file>ViewerWindow.qml</file>
+        <file>FooterViewerWindow.qml</file>
+        <file>HeaderViewerWindow.qml</file>
+    </qresource>
+</RCC>
